@@ -1,3 +1,9 @@
+## Notes
+1. Did not worked on Docker related work but changed the Database:ConnectionString as 
+"Host=localhost;Port=5433;Database=asssignment1;Username=postgres;Password=admin@123" 
+
+2. Selected the Debug platform as API from the play drop-down
+
 # AcmeFlights Assignment
 
 ![alt text](/acmeflights-image.jpg)
